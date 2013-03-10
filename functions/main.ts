@@ -275,8 +275,8 @@
 	    move_to('../..', 'top');
 
 			inject_top('<div id="navi">
-			  <a href="#main" class="nav_button">Top</a>
-			  <a href="#sponsors" class="nav_button">Bot</a>
+			  <a href="#main" class="nav_button">&uarr;</a>
+			  <a href="#sponsors" class="nav_button">&darr;</a>
 				</div>');
 		}
 	
