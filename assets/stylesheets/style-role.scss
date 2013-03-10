@@ -41,7 +41,7 @@
 .top-links{
 	float:left;
 	ul.right{
-		float:left;
+		float:right;
 	}
 }
 
@@ -52,11 +52,13 @@
  right:0px;
  z-index: 100;
  .nav_button{
+	 height:20px;
+	 width: 30px;
 	 margin-bottom:10px;
 	 border-radius: 8px;
 	 color:white;
 	 background-color: orange;
-	 padding:10px;
+	 padding:15px;
 	 display:block;
  }
 }
@@ -74,7 +76,11 @@
 }
 
 #moovweb_plug{
+	background-color:white;
+	height:30px;
+	font-size: 1.2em;
+	width:100%;
+	margin:auto;
   position:fixed;
 	bottom:0px;
-	right:0px;
 }
