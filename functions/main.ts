@@ -268,6 +268,12 @@
   }
 }
 
+@func XMLNode.strip() {
+  $('./body'){
+	  
+	}
+}
+
 @func XMLNode.relocate_scripts() {
   $("/html/body/script") {
     move_to("/html/body", "bottom")
