@@ -52,8 +52,7 @@
  right:0px;
  z-index: 100;
  .nav_button{
-	 height:20px;
-	 width: 30px;
+	 font-size: 2em;
 	 margin-bottom:10px;
 	 border-radius: 8px;
 	 color:white;
@@ -69,13 +68,16 @@
 	background-color: rgb(221, 216, 157);
 }
 #search{
+  z-index: 100;
 	width:100%;
 	position:fixed;
-	bottom:0px;
+	bottom:30px;
 	input#search_theme_form {width:100%;}
 }
 
 #moovweb_plug{
+
+  z-index: 100;
 	background-color:white;
 	height:30px;
 	font-size: 1.2em;
