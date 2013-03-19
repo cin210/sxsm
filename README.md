@@ -1,6 +1,6 @@
-## Basics
-
-Welcome to your Moovweb project! Moovweb is a great way to build a compelling front-end for a website. The files in this project describe the changes we want to make to the front end of a site. There's places in this project to add new images (assets/images/), styles (assets/stylesheets/) and even manipulate HTML (scripts/).
+## Pimptro
+This is my first attempt at creating a Tritium project to optimize a desktop site on my mobile device. In about 4 hours at a coffee shop, I was able to improve the user experience of the sxsw schedule site. The project adds a couple interface buttons to better navigate the schedule, left-justifies the content of the entire page, and pushes the list of sponsors to the bottom.  
+'A++++ Would Develop With Again'
 
 ## Before Running This
 
